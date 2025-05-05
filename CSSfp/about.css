@@ -88,14 +88,3 @@ nav {
   line-height: 1.8;
   margin-bottom: 20px;
 }
-
-.about-image {
-  flex: 1;
-  min-width: 300px;
-}
-
-.about-image img {
-  width: 100%;
-  border-radius: 15px;
-  box-shadow: 0 4px 10px rgba(255, 0, 0, 0.5);
-}
